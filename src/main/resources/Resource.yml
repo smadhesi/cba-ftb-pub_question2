@@ -1,0 +1,15 @@
+url: https://www.commbank.com.au/
+chromeDriver: chromedriver.exe
+
+
+repaymentCalculator:
+  - amount: 10000
+    over: 30
+    repaymentType: Interest only 1 year
+    repaymentAmt: $14,739
+    interestAmt: $4,739
+  - amount: 20000
+    over: 30
+    repaymentType: Interest only 2 years
+    repaymentAmt: $29,791
+    interestAmt: $9,791
